@@ -1,5 +1,5 @@
 # git教程
-<<<<<<< HEAD
+HEAD
 [toc]
 ## git简介
 
