@@ -1,4 +1,5 @@
 # git教程
+<<<<<<< HEAD
 [toc]
 ## git简介
 
